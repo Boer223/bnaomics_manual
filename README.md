@@ -1,2 +1,2 @@
-# bnaomics_manual
- bnaomics user manual
+# BnaOmics User Manual
+
